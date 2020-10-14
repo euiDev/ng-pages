@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-pages"
+    }
+  },
+  "defaultProject": "ng-pages",
+  "cli": {
+    "analytics": false
+  }
 }
